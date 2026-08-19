@@ -5,7 +5,7 @@ Bem-vindo ao meu espaço de aprendizado contínuo. Sou estudante de Análise e D
 ---
 
 ## 💻 Lógica de Programação
-| Curso / Certificação | Instituição | Certificado |
+| Instituição | Certificado |
 | :--- | :--- |
 | DIO | [Ver PDF](https://github.com/marcosdev-marcos-ti01/Portfolio-de-Certificados/blob/main/programacao/logica%20de%20programa%C3%A7ao/c01.pdf) |
 |  | DIO | [Ver PDF](programacao/certificado-exemplo-2.pdf) |
