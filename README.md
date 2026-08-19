@@ -8,7 +8,7 @@ Bem-vindo ao meu espaço de aprendizado contínuo. Sou estudante de Análise e D
 
 | Curso / Certificação | Instituição | Carga Horária | Certificado |
 | :--- | :--- | :---: | :---: |
-| Lógica de Programação em Javascript | DIO | -h | [Ver PDF](link-do-seu-pdf-aqui) |
+| Lógica de Programação em Javascript | DIO | -h | [Ver PDF](https://github.com/marcosdev-marcos-ti01/Portfolio-de-Certificados/tree/main/programacao/logica%20de%20programa%C3%A7ao) |
 
 *(Adicione mais linhas aqui seguindo o exemplo acima)*
 
